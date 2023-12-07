@@ -110,8 +110,8 @@
             Flooding may occur as an overflow of water from water bodies, such as a river, lake, or ocean, in which the water overtops or breaks levees, resulting in some of that water escaping its usual boundaries, or it may occur due to an accumulation of rainwater on saturated ground in an areal flood. 
             While the size of a lake or other body of water will vary with seasonal changes in precipitation and snow melt, these changes in size are unlikely to be considered significant unless they flood property or drown domestic animals.
         </p>
-        <img src="C:\Users\chinn\OneDrive\Desktop\flood2.jpg" class="f1">
-        <img src="C:\Users\chinn\OneDrive\Desktop\flood1.jpg" class="f1">
+        <img src="https://s.hdnux.com/photos/74/71/05/15962463/3/rawImage.jpg" class="f1">
+        <img src="https://www.ready.gov/sites/default/files/2020-04/Flooded-neighborhood_1.jpg" class="f1">
     </section>
     <ul>
     <section>
@@ -130,7 +130,7 @@
             <li>Tailored solutions that can easily be integrated with external development at any level such as connectivity, user application, and device.</li>
         </ul>
         <figure class="images">
-            <img src="C:\Users\chinn\OneDrive\Desktop\smile.jpg" height="400"; width="500" style="padding-left: 400px;">
+            <img src="https://mypolice.qld.gov.au/mountisa/wp-content/blogs.dir/43/files/2016/02/IMG_0057.jpg" height="400"; width="500" style="padding-left: 400px;">
             <figcaption style="padding-left: 400px; font-size: larger; font-weight: 400; padding-bottom: 30px;">People in Floods</figcaption>
         </figure>
     </section>
@@ -145,8 +145,8 @@
 
         </dl>
         <figure>
-            <img src="C:\Users\chinn\OneDrive\Desktop\floodcontrol.jpg" style="padding-left: 200px;height: 400px; width: 400px; display: inline; ">
-            <img src="C:\Users\chinn\OneDrive\Desktop\floodcontrol2.jpg" style="padding-left: 200px;height: 400px; width: 400px; display: inline; ">
+            <img src="https://static01.nyt.com/images/2021/03/22/world/22oz-floods-1sub/22oz-floods-1sub-videoSixteenByNine3000.jpg" style="padding-left: 200px;height: 400px; width: 400px; display: inline; ">
+            <img src="http://static.businessinsider.com/image/52fa07956bb3f7174225ad9a/image.jpg" style="padding-left: 200px;height: 400px; width: 400px; display: inline; ">
             <figcaption style="display: inline; padding-left: 200px; font-size: larger; font-weight: 500;" >Flood Contolling</figcaption>
             <figcaption style="display: inline; padding-left: 500px; font-size: larger; font-weight: 500;" >A Method to control Floods</figcaption>
         </figure>
@@ -172,9 +172,9 @@
                     Non-professional flood risk assessments can be produced by members of the public, Architects, environment assessors, or others who are not specifically professionally qualified in this field. However, it is a complex evaluation and such assessments they can be rejected by Authorities as inadequate, or could be considered as negligent in the event of a flooding event, damage and a claim to insurers being made.</p>
                       
     
-    <img src="C:\Users\chinn\OneDrive\Desktop\river.jpg" height="300px" width="300px" style="padding-left: 150px; display: inline;">
-    <img src="C:\Users\chinn\OneDrive\Desktop\surface-water.jpg" height="300px" width="300px" style="padding-left: 150px; display: inline;">
-    <img src="C:\Users\chinn\OneDrive\Desktop\groundwater.png" height="300px" width="300px" style="padding-left: 150px; display: inline;">
+    <img src="https://tse2.mm.bing.net/th?id=OIP.vo5xd91hKg5NPd5teWSXmAHaE8&pid=Api&P=0&h=180" height="300px" width="300px" style="padding-left: 150px; display: inline;">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.u5t9VJg582MvjpmlpAOgnQHaEK&pid=Api&P=0&h=180" height="300px" width="300px" style="padding-left: 150px; display: inline;">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.WRx9E36_rin1LseXLcnm_gHaE7&pid=Api&P=0&h=180" height="300px" width="300px" style="padding-left: 150px; display: inline;">
     </ul>
     </section>
     <section>
@@ -198,8 +198,8 @@
         </dl>
         </ul>
         <div class="parent">
-            <img style="margin-bottom: 300px;"   class="image1" src="C:\Users\chinn\OneDrive\Desktop\stop.png">
-            <img class="image2" src="C:\Users\chinn\OneDrive\Desktop\smile.jpg">
+            <img style="margin-bottom: 300px;"   class="image1" src="https://tse2.mm.bing.net/th?id=OIP.a6xtUlkhMz-SkaDr3yqZAgHaHa&pid=Api&P=0&h=180">
+            <img class="image2" src="https://tse3.mm.bing.net/th?id=OIP.FiYqA9pDUl6nhlES1l7lLAHaEc&pid=Api&P=0&h=180">
         </div>
         
         </ul>
@@ -222,8 +222,8 @@
         </dl>
         </ul>
         </ul>
-        <img class="f1" src="C:\Users\chinn\OneDrive\Desktop\rainwater.webp">
-        <img class="f1" src="C:\Users\chinn\OneDrive\Desktop\riverlink.webp">
+        <img class="f1" src="https://cff2.earth.com/uploads/2018/11/12235505/what-is-rain.jpg">
+        <img class="f1" src="https://tse3.mm.bing.net/th?id=OIP.c61v8erctZjvdi5Ez_sHXAHaE6&pid=Api&P=0&h=180">
     </section>
     <section style="background-color: rgb(169, 127, 91); text-align: center; padding: 150px">
     <p><strong style="color: white; font-size: 50px; text-align: center;">Flood Management in India</strong><br><br>
